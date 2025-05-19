@@ -4,7 +4,7 @@ A simple Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript
 
 ## 🚀 Live Demo
 
-🔗 [Play the Game](https://your-username.github.io/rock-paper-scissors/) 
+🔗 [Play the Game](https://rock-paper-scissors-seven-amber.vercel.app/)
 
 ---
 
